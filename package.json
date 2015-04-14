@@ -18,7 +18,7 @@
     "component-ls": "^2.1.0",
     "component-outdated2": "^1.0.4",
     "component-pin": "^1.0.4",
-    "component-resolver": "git://github.com/UKDemocracyOS/resolver.js.git",
+    "component-resolver": "git://github.com/UKDemocracyOS/resolver.js.git#debug",
     "component-search2": "^1.1.1",
     "component-updater": "^1.0.4",
     "component-watcher": "^1.0.1",
