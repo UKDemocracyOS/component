@@ -13,7 +13,7 @@
   "repository": "componentjs/component",
   "dependencies": {
     "component-build": "^1.2.2",
-    "component-consoler": "https://github.com/UKDemocracyOS/console.js.git",
+    "component-consoler": "git://github.com/UKDemocracyOS/console.js.git",
     "component-flatten": "^1.0.1",
     "component-ls": "^2.1.0",
     "component-outdated2": "^1.0.4",
